@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Java+%7C+Spring+Boot;Apaixonado+por+tecnologia!;Sempre+aprendendo+novas+tecnologias!)
 
-![Profile Views](https://visit-counter.vercel.app/counter.svg?page=seu-usuario&color=blue)
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
 ## 🚀 Sobre Mim
@@ -22,12 +20,6 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-3E8C28?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 ---
 
