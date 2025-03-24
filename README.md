@@ -2,6 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Desenvolvedor+Java+%7C+Spring+Boot;Apaixonado+por+tecnologia!;Sempre+aprendendo+novas+tecnologias!)
 
+![Profile Views](https://visit-counter.vercel.app/counter.svg?page=seu-usuario&color=blue)
 
 ## 🚀 Sobre Mim
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNINASSAU**.  
