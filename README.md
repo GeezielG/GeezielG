@@ -27,9 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/geeziel-gomes-022857352)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geezielg@gmail.com)
 
+
 ---
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
