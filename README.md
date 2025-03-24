@@ -1,11 +1,13 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Desenvolvedor+Java+%7C+Spring+Boot;Apaixonado+por+tecnologia!;Sempre+aprendendo+novas+tecnologias!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Java+%7C+Spring+Boot;Apaixonado+por+tecnologia!;Sempre+aprendendo+novas+tecnologias!)
 
 ![Profile Views](https://visit-counter.vercel.app/counter.svg?page=seu-usuario&color=blue)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+
 ## 🚀 Sobre Mim
-🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **UNINASSAU**.  
+🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **UNINASSAU**.  
 💻 Tenho experiência em **Java, Spring Boot, PostgreSQL, MySQL, NoSQL e Git**.  
 🔍 Buscando oportunidades como **estagiário ou desenvolvedor júnior**.  
 
@@ -30,9 +32,12 @@
 ---
 
 ## 📫 Como Me Encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/geeziel-gomes-022857352)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geezielg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
