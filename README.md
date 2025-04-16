@@ -7,7 +7,7 @@
 ## 🚀 Sobre Mim
 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **UNINASSAU**.  
 💻 Tenho experiência em **Java, Spring Boot, PostgreSQL, MySQL, NoSQL e Git**.  
-🔍 Buscando oportunidades como **estagiário ou desenvolvedor júnior**.  
+🔍 Buscando oportunidades como **desenvolvedor back-end**.  
 
 ---
 
